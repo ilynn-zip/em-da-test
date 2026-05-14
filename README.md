@@ -8,3 +8,5 @@
 ### 3. [SQL](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%203.pdf)
 ### 4. [Статистика и АБ-тесты](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%204.pdf)
 ### 5. [ML Base](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%205.pdf)
+---
+## [В одном файлике *для удобства, наверно*](https://github.com/ilynn-zip/em-da-test/blob/main/tz-merged.pdf)
