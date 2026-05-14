@@ -6,5 +6,5 @@
 ### 1. [Теория вероятности и логика](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%201.pdf)
 ### 2. [Python](https://github.com/ilynn-zip/em-da-test/blob/main/block2.py)
 ### 3. [SQL](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%203.pdf)
-### 4. [Статистика и АБ-тесты]()
+### 4. [Статистика и АБ-тесты](https://github.com/ilynn-zip/em-da-test/blob/main/Блок%204.pdf)
 ### 5. [ML Base]()
